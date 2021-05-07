@@ -2,7 +2,7 @@ package kodlamaIoProject;
 
 public class User {
 
-	// final örneði id ile kullanýldý. Yalnýz deneme amaçlý.
+	// final instance was used with id. For trial purpose only.
 
 	private final int id = 11;
 	private String firstName;
